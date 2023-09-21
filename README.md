@@ -2,7 +2,6 @@
 
 A Flutter project to demo forever spinning widgets.
 
-## Getting Started
+## Deployed Example
 
-<iframe src="https://c2p-cmd.github.io/spinning_widget_demo/">
-</iframe>
+[!Link](https://c2p-cmd.github.io/spinning_widget_demo/)
