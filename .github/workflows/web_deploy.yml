@@ -14,4 +14,4 @@ jobs:
       - uses: bluefireteam/flutter-gh-pages@v7
         with:
           baseHref: /forever_spinning_widget/
-          webRenderer: html
+          # webRenderer: html
